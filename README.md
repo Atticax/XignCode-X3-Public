@@ -1,3 +1,3 @@
 # XignCode
 
-compile & rename xigncode.dll too x3.xem
+compile & rename xigncode.dll to x3.xem if you manage that :)
